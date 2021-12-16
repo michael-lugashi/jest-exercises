@@ -1,0 +1,16 @@
+{
+  "name": "pure-function",
+  "private": true,
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "description": "For this exercise the test have already been written.",
+  "version": "1.0.0",
+  "main": "index.spec.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
